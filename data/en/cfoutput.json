@@ -33,7 +33,7 @@
 		{
 	            "title": "Tag Syntax",
 	            "description": "",
-	            "code": "<cfoutput>Some text and a #variable#</cfoutput>",
+	            "code": "<cfset variable='the variable'>\n<cfoutput>Some text and a #variable#</cfoutput>",
 	            "result": ""
 	        }
 	]
